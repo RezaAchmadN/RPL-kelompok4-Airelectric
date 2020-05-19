@@ -4,7 +4,7 @@ Aplikasi pemantau tingkat polusi udara dan tingkat pemakaian bulanan listrik
 ## Anggota Kelompok 16
 1. Reza Achmad Naufal **G64180078**
 2. Muhammad Khadafi **G64180039**.
-3.  **G64800000**.
+3. Abdullah Aziz Wali **G64180013**.
 
 # Latar Belakang
 Teknologi saat ini sudah sangat berkembang. Berbagai permasalahan dapat dibantu atau bahkan diselesaikan dengan cepat melalui bantuan teknologi. Beberapa petmasalahan hidup yang terjadi di masyarakat generasi sekarang dan juga akan berdampak besar kepada kehidupan di generasi nantinya adalah permasalahan pencemaran udara di suatu daerah dan pemakaian listrik yang berlebihan di tempat tinggal masing-masing. Pencemaran udara di suatu daerah dapat mengakibatkan masalah kesehatan, seperti terganggunya pernapasannya pada manusia dan menyebabkan juga kanker pada tubuh, selain itu dapat menyebabkan pemanasan global yang dapat meningkatkan suhu di bumi. Pemakaian listrik yang berlebihan dapat mengakibatkan semakin banyaknya emisi yang dihasilkan berupa karbon yang berdampak pada pemanasan global, karena sebagian besar listrik dihasilkan dari energi fosil. Oleh karena dampak yang sangat buruk tersebut dan untuk mempermudah manusia dalam mengingatkan agar dampak tersebut dapat diminimalisir, diperlukannya alat berupa teknologi untuk mengingatkan manusia akan hal-hal tersebut.
